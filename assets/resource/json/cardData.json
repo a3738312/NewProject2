@@ -1,0 +1,386 @@
+[
+    {
+        "id": 1,
+        "level": 5,
+        "type": 1,
+        "icon": "res/raw-assets/Texture/Servant/5_1.png"
+    },
+    {
+        "id": 2,
+        "level": 5,
+        "type": 1,
+        "icon": "res/raw-assets/Texture/Servant/5_2.png"
+    },
+    {
+        "id": 3,
+        "level": 5,
+        "type": 1,
+        "icon": "res/raw-assets/Texture/Servant/5_3.png"
+    },
+    {
+        "id": 4,
+        "level": 5,
+        "type": 1,
+        "icon": "res/raw-assets/Texture/Servant/5_4.png"
+    },
+    {
+        "id": 5,
+        "level": 5,
+        "type": 1,
+        "icon": "res/raw-assets/Texture/Servant/5_5.png"
+    },
+    {
+        "id": 6,
+        "level": 5,
+        "type": 1,
+        "icon": "res/raw-assets/Texture/Servant/5_6.png"
+    },
+    {
+        "id": 7,
+        "level": 5,
+        "type": 1,
+        "icon": "res/raw-assets/Texture/Servant/5_7.png"
+    },
+    {
+        "id": 8,
+        "level": 5,
+        "type": 1,
+        "icon": "res/raw-assets/Texture/Servant/5_8.png"
+    },
+    {
+        "id": 9,
+        "level": 5,
+        "type": 1,
+        "icon": "res/raw-assets/Texture/Servant/5_9.png"
+    },
+    {
+        "id": 10,
+        "level": 5,
+        "type": 1,
+        "icon": "res/raw-assets/Texture/Servant/5_10.png"
+    },
+    {
+        "id": 10,
+        "level": 5,
+        "type": 1,
+        "icon": "res/raw-assets/Texture/Servant/5_10.png"
+    },
+    {
+        "id": 10,
+        "level": 5,
+        "type": 1,
+        "icon": "res/raw-assets/Texture/Servant/5_10.png"
+    },
+    {
+        "id": 10,
+        "level": 5,
+        "type": 1,
+        "icon": "res/raw-assets/Texture/Servant/5_10.png"
+    },
+    {
+        "id": 10,
+        "level": 5,
+        "type": 1,
+        "icon": "res/raw-assets/Texture/Servant/5_10.png"
+    },
+    {
+        "id": 11,
+        "level": 4,
+        "type": 1,
+        "icon": "res/raw-assets/Texture/Servant/4_1.png"
+    },
+    {
+        "id": 12,
+        "level": 4,
+        "type": 1,
+        "icon": "res/raw-assets/Texture/Servant/4_2.png"
+    },
+    {
+        "id": 13,
+        "level": 4,
+        "type": 1,
+        "icon": "res/raw-assets/Texture/Servant/4_3.png"
+    },
+    {
+        "id": 14,
+        "level": 4,
+        "type": 1,
+        "icon": "res/raw-assets/Texture/Servant/4_4.png"
+    },
+    {
+        "id": 15,
+        "level": 4,
+        "type": 1,
+        "icon": "res/raw-assets/Texture/Servant/4_5.png"
+    },
+    {
+        "id": 16,
+        "level": 4,
+        "type": 1,
+        "icon": "res/raw-assets/Texture/Servant/4_6.png"
+    },
+    {
+        "id": 17,
+        "level": 4,
+        "type": 1,
+        "icon": "res/raw-assets/Texture/Servant/4_7.png"
+    },
+    {
+        "id": 18,
+        "level": 4,
+        "type": 1,
+        "icon": "res/raw-assets/Texture/Servant/4_8.png"
+    },
+    {
+        "id": 19,
+        "level": 4,
+        "type": 1,
+        "icon": "res/raw-assets/Texture/Servant/4_9.png"
+    },
+    {
+        "id": 20,
+        "level": 4,
+        "type": 1,
+        "icon": "res/raw-assets/Texture/Servant/4_10.png"
+    },
+    {
+        "id": 21,
+        "level": 3,
+        "type": 1,
+        "icon": "res/raw-assets/Texture/Servant/3_1.png"
+    },
+    {
+        "id": 22,
+        "level": 3,
+        "type": 1,
+        "icon": "res/raw-assets/Texture/Servant/3_2.png"
+    },
+    {
+        "id": 23,
+        "level": 3,
+        "type": 1,
+        "icon": "res/raw-assets/Texture/Servant/3_3.png"
+    },
+    {
+        "id": 24,
+        "level": 3,
+        "type": 1,
+        "icon": "res/raw-assets/Texture/Servant/3_4.png"
+    },
+    {
+        "id": 25,
+        "level": 3,
+        "type": 1,
+        "icon": "res/raw-assets/Texture/Servant/3_5.png"
+    },
+    {
+        "id": 26,
+        "level": 3,
+        "type": 1,
+        "icon": "res/raw-assets/Texture/Servant/3_6.png"
+    },
+    {
+        "id": 27,
+        "level": 3,
+        "type": 1,
+        "icon": "res/raw-assets/Texture/Servant/3_7.png"
+    },
+    {
+        "id": 28,
+        "level": 3,
+        "type": 1,
+        "icon": "res/raw-assets/Texture/Servant/3_8.png"
+    },
+    {
+        "id": 29,
+        "level": 3,
+        "type": 1,
+        "icon": "res/raw-assets/Texture/Servant/3_9.png"
+    },
+    {
+        "id": 30,
+        "level": 3,
+        "type": 1,
+        "icon": "res/raw-assets/Texture/Servant/3_10.png"
+    },
+    {
+        "id": 31,
+        "level": 5,
+        "type": 2,
+        "icon": "res/raw-assets/Texture/MysticCode/lz_5_1.png"
+    },
+    {
+        "id": 32,
+        "level": 5,
+        "type": 2,
+        "icon": "res/raw-assets/Texture/MysticCode/lz_5_2.png"
+    },
+    {
+        "id": 33,
+        "level": 5,
+        "type": 2,
+        "icon": "res/raw-assets/Texture/MysticCode/lz_5_3.png"
+    },
+    {
+        "id": 34,
+        "level": 5,
+        "type": 2,
+        "icon": "res/raw-assets/Texture/MysticCode/lz_5_4.png"
+    },
+    {
+        "id": 35,
+        "level": 5,
+        "type": 2,
+        "icon": "res/raw-assets/Texture/MysticCode/lz_5_5.png"
+    },
+    {
+        "id": 36,
+        "level": 5,
+        "type": 2,
+        "icon": "res/raw-assets/Texture/MysticCode/lz_5_6.png"
+    },
+    {
+        "id": 37,
+        "level": 5,
+        "type": 2,
+        "icon": "res/raw-assets/Texture/MysticCode/lz_5_7.png"
+    },
+    {
+        "id": 38,
+        "level": 5,
+        "type": 2,
+        "icon": "res/raw-assets/Texture/MysticCode/lz_5_8.png"
+    },
+    {
+        "id": 39,
+        "level": 5,
+        "type": 2,
+        "icon": "res/raw-assets/Texture/MysticCode/lz_5_9.png"
+    },
+    {
+        "id": 40,
+        "level": 5,
+        "type": 2,
+        "icon": "res/raw-assets/Texture/MysticCode/lz_5_10.png"
+    },
+    {
+        "id": 41,
+        "level": 4,
+        "type": 2,
+        "icon": "res/raw-assets/Texture/MysticCode/lz_4_1.png"
+    },
+    {
+        "id": 42,
+        "level": 4,
+        "type": 2,
+        "icon": "res/raw-assets/Texture/MysticCode/lz_4_2.png"
+    },
+    {
+        "id": 43,
+        "level": 4,
+        "type": 2,
+        "icon": "res/raw-assets/Texture/MysticCode/lz_4_3.png"
+    },
+    {
+        "id": 44,
+        "level": 4,
+        "type": 2,
+        "icon": "res/raw-assets/Texture/MysticCode/lz_4_4.png"
+    },
+    {
+        "id": 45,
+        "level": 4,
+        "type": 2,
+        "icon": "res/raw-assets/Texture/MysticCode/lz_4_5.png"
+    },
+    {
+        "id": 46,
+        "level": 4,
+        "type": 2,
+        "icon": "res/raw-assets/Texture/MysticCode/lz_4_6.png"
+    },
+    {
+        "id": 47,
+        "level": 4,
+        "type": 2,
+        "icon": "res/raw-assets/Texture/MysticCode/lz_4_7.png"
+    },
+    {
+        "id": 48,
+        "level": 4,
+        "type": 2,
+        "icon": "res/raw-assets/Texture/MysticCode/lz_4_8.png"
+    },
+    {
+        "id": 49,
+        "level": 4,
+        "type": 2,
+        "icon": "res/raw-assets/Texture/MysticCode/lz_4_9.png"
+    },
+    {
+        "id": 50,
+        "level": 4,
+        "type": 2,
+        "icon": "res/raw-assets/Texture/MysticCode/lz_4_10.png"
+    },
+    {
+        "id": 51,
+        "level": 3,
+        "type": 2,
+        "icon": "res/raw-assets/Texture/MysticCode/lz_3_1.png"
+    },
+    {
+        "id": 52,
+        "level": 3,
+        "type": 2,
+        "icon": "res/raw-assets/Texture/MysticCode/lz_3_2.png"
+    },
+    {
+        "id": 53,
+        "level": 3,
+        "type": 2,
+        "icon": "res/raw-assets/Texture/MysticCode/lz_3_3.png"
+    },
+    {
+        "id": 54,
+        "level": 3,
+        "type": 2,
+        "icon": "res/raw-assets/Texture/MysticCode/lz_3_4.png"
+    },
+    {
+        "id": 55,
+        "level": 3,
+        "type": 2,
+        "icon": "res/raw-assets/Texture/MysticCode/lz_3_5.png"
+    },
+    {
+        "id": 56,
+        "level": 3,
+        "type": 2,
+        "icon": "res/raw-assets/Texture/MysticCode/lz_3_6.png"
+    },
+    {
+        "id": 57,
+        "level": 3,
+        "type": 2,
+        "icon": "res/raw-assets/Texture/MysticCode/lz_3_7.png"
+    },
+    {
+        "id": 58,
+        "level": 3,
+        "type": 2,
+        "icon": "res/raw-assets/Texture/MysticCode/lz_3_8.png"
+    },
+    {
+        "id": 59,
+        "level": 3,
+        "type": 2,
+        "icon": "res/raw-assets/Texture/MysticCode/lz_3_9.png"
+    },
+    {
+        "id": 60,
+        "level": 3,
+        "type": 2,
+        "icon": "res/raw-assets/Texture/MysticCode/lz_3_10.png"
+    }
+]
