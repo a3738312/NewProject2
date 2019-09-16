@@ -19,10 +19,11 @@ export default class Data extends cc.Component {
 
     // LIFE-CYCLE CALLBACKS:
 
-    // onLoad () {}
+    onLoad () {
+        Data.ins = this;
+    }
 
     start() {
-        Data.ins = this;
         window.localStorage.clear();
         var self = this;
         cc.loader.load('res/raw-assets/resource/json/cardData.json',(err,jso)=>{
@@ -46,6 +47,9 @@ export default class Data extends cc.Component {
         this.sjs = n;
     }
 
+    public addSjs() {
+        this.sjs += 2100;
+    }
     public getCardDataById(id: number): CardData {
         var cardData: CardData = null;
         var wl = window.localStorage;
